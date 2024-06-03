@@ -1,0 +1,24 @@
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\bin\Debug\HOSPITAL2.exe.config
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\bin\Debug\HOSPITAL2.exe
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\bin\Debug\HOSPITAL2.pdb
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.csprojAssemblyReference.cache
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Form1.resources
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Properties.Resources.resources
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.csproj.GenerateResource.cache
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.exe
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.pdb
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Form2.resources
+C:\Users\Mohamed Ali\source\repos\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Form3.resources
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\bin\Debug\HOSPITAL2.exe.config
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\bin\Debug\HOSPITAL2.exe
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\bin\Debug\HOSPITAL2.pdb
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Form1.resources
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Form2.resources
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Form3.resources
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.exe
+C:\Users\LENOVO\Desktop\HOSPITAL2\HOSPITAL2\obj\Debug\HOSPITAL2.pdb
